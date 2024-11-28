@@ -5,7 +5,8 @@ export const banner = `
 ██╔═██╗ ██╔══██║██║╚════██║██╔══██║██╔══██╗     ███╔╝  ██╔══╝  ██╔══██╗██║   ██║
 ██║  ██╗██║  ██║██║███████║██║  ██║██║  ██║    ███████╗███████╗██║  ██║╚██████╔╝
 ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝    ╚══════╝╚══════╝╚═╝  ╚═╝ ╚═════╝ 
-            Running Kaisar Node BETA EXTENSION CLI Version                
-                        Author : Nofan Rambe
-                        Welcome & Enjoy Sir!
-                        `
+                 
+                 Running Kaisar Node Beta Extensions Cli Version                
+                             Author : Nofan Rambe
+                             Welcome & Enjoy Sir!
+                             `
