@@ -1,12 +1,1 @@
-import axios from 'axios';
-import { HttpsProxyAgent } from 'https-proxy-agent'; 
-import { checkAndClaimTask, dailyCheckin } from '../core/task.js';
-import { getProxy, getId, getToken } from '../core/file.js';
-import { getMiningData } from '../core/script.js';
-import { logger } from './logger.js';
-import { banner } from './helper.js';
-import { headers } from '../core/task.js';
-import readline from 'readline';
-import fs from 'fs';
-
-export { axios, HttpsProxyAgent, checkAndClaimTask, dailyCheckin, getProxy, getId, getToken, getMiningData, logger, banner, headers, readline, fs };
+(function(_0x567db7,_0x4f5c53){var _0x3ecbcd=_0x1500,_0x2968b4=_0x567db7();while(!![]){try{var _0x4d6534=parseInt(_0x3ecbcd(0xf5))/0x1*(-parseInt(_0x3ecbcd(0xfc))/0x2)+-parseInt(_0x3ecbcd(0xfa))/0x3*(parseInt(_0x3ecbcd(0xf8))/0x4)+parseInt(_0x3ecbcd(0xfb))/0x5+-parseInt(_0x3ecbcd(0xf4))/0x6*(parseInt(_0x3ecbcd(0xf1))/0x7)+parseInt(_0x3ecbcd(0xf7))/0x8*(parseInt(_0x3ecbcd(0xf3))/0x9)+-parseInt(_0x3ecbcd(0xf9))/0xa+-parseInt(_0x3ecbcd(0xf6))/0xb*(-parseInt(_0x3ecbcd(0xf2))/0xc);if(_0x4d6534===_0x4f5c53)break;else _0x2968b4['push'](_0x2968b4['shift']());}catch(_0x16a52f){_0x2968b4['push'](_0x2968b4['shift']());}}}(_0x55a7,0x41230));import _0xddcbd from'axios';import{HttpsProxyAgent}from'https-proxy-agent';import{checkAndClaimTask,dailyCheckin}from'../core/task.js';import{getProxy,getId,getToken}from'../core/file.js';import{getMiningData}from'../core/script.js';import{logger}from'./logger.js';function _0x1500(_0x60636d,_0x17e3b2){var _0x55a746=_0x55a7();return _0x1500=function(_0x1500fa,_0x3208e7){_0x1500fa=_0x1500fa-0xf1;var _0x1012c9=_0x55a746[_0x1500fa];return _0x1012c9;},_0x1500(_0x60636d,_0x17e3b2);}import{banner}from'./helper.js';function _0x55a7(){var _0x5c3998=['5469WwpFBC','1415645Oqhclx','4bjOPBn','161RlfHJg','3864936Bouqrv','9MurbdE','41166qsbvOY','47567TqtLjy','11GkfVAY','2760376pxhNHk','924slxYKS','94040bPlKZd'];_0x55a7=function(){return _0x5c3998;};return _0x55a7();}import{headers}from'../core/task.js';import _0x517934 from'readline';import _0x497a19 from'fs';export{_0xddcbd as axios,HttpsProxyAgent,checkAndClaimTask,dailyCheckin,getProxy,getId,getToken,getMiningData,logger,banner,headers,_0x517934 as readline,_0x497a19 as fs};
