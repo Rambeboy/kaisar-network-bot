@@ -70,6 +70,7 @@ Transform your compute power into real earnings.
    http://user:pass@ip:port
    ```
    each line 1 proxy.
+
 **If you register using cli, file above auto filled, just fill `email.txt` with your email.**
 
 ## LICENSE
