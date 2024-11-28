@@ -37,35 +37,31 @@ Transform your compute power into real earnings.
    ```bash
    npm install
    ```
-3. Copy file accounts:
-   ```bash
-   cp accounts/emails.txt emails.txt && cp accounts/id.txt id.txt && cp accounts/proxy.txt proxy.txt && cp accounts/tokens.txt txt
-   ```
-4. Configure the emails:
+3. Configure the emails:
    ```bash
    nano emails.txt
    ```
-5. Configure the ID:
+4. Configure the ID:
    ```bash
    nano id.txt
    ```
-6. Configure the tokens:
+5. Configure the tokens:
    ```bash
    nano tokens.txt
    ```
-7. Configure the proxy:
+6. Configure the proxy:
    ```bash
    nano proxy.txt
    ```
-8. Register or Login to get Access Token:
+7. Register or Login to get Access Token:
    ```bash
    npm run register
    ```
-9. Create Extension ID for new accounts:
+8. Create Extension ID for new accounts:
    ```bash
    npm run setup
    ```
-10. Run the bot:
+9. Run the bot:
    ```bash
    npm run start
    ```
