@@ -65,6 +65,7 @@ Transform your compute power into real earnings.
 2. `id.txt`: Stores Extension IDs each line 1 account.
 3. `emails.txt`: Store email account 1 line 1 account.
 4. `proxy.txt`: stores Proxy url format
+
    ```bash
    http://user:pass@ip:port
    ```
