@@ -41,27 +41,19 @@ Transform your compute power into real earnings.
    ```bash
    nano emails.txt
    ```
-4. Configure the ID:
-   ```bash
-   nano id.txt
-   ```
-5. Configure the tokens:
-   ```bash
-   nano tokens.txt
-   ```
-6. Configure the proxy:
+4. Configure the proxy:
    ```bash
    nano proxy.txt
    ```
-7. Register or Login to get Access Token:
+5. Register or Login to get Access Token:
    ```bash
    npm run register
    ```
-8. Create Extension ID for new accounts:
+6. Create Extension ID for new accounts:
    ```bash
    npm run setup
    ```
-9. Run the bot:
+7. Run the bot:
    ```bash
    npm run start
    ```
