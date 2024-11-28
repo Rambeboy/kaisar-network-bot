@@ -1,1 +1,13 @@
-const _0x27007a=_0x36e7;function _0x4833(){const _0x53c8e1=['395090oTBeUo','2825165cyrGzL','3445240YeNExv','33532209wPHnMm','2183982RZDPBX','2527116aZpfvI','1lAhRkT','42XJHALq','1104190uFFaoL','\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20Running\x20Kaisar\x20Node\x20Beta\x20Extensions\x20Cli\x20Version\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20Author\x20:\x20Nofan\x20Rambe\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20Welcome\x20&\x20Enjoy\x20Sir!\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20'];_0x4833=function(){return _0x53c8e1;};return _0x4833();}(function(_0x2d0819,_0x38bb71){const _0x15589b=_0x36e7,_0x3c38a3=_0x2d0819();while(!![]){try{const _0x29b443=parseInt(_0x15589b(0xea))/0x1*(-parseInt(_0x15589b(0xec))/0x2)+-parseInt(_0x15589b(0xe8))/0x3+-parseInt(_0x15589b(0xe9))/0x4+parseInt(_0x15589b(0xee))/0x5*(-parseInt(_0x15589b(0xeb))/0x6)+-parseInt(_0x15589b(0xef))/0x7+-parseInt(_0x15589b(0xf0))/0x8+parseInt(_0x15589b(0xe7))/0x9;if(_0x29b443===_0x38bb71)break;else _0x3c38a3['push'](_0x3c38a3['shift']());}catch(_0x266626){_0x3c38a3['push'](_0x3c38a3['shift']());}}}(_0x4833,0x6823d));function _0x36e7(_0x4b6df6,_0x4dacf0){const _0x483301=_0x4833();return _0x36e7=function(_0x36e75c,_0xaeff93){_0x36e75c=_0x36e75c-0xe7;let _0xc373b1=_0x483301[_0x36e75c];return _0xc373b1;},_0x36e7(_0x4b6df6,_0x4dacf0);}export const banner=_0x27007a(0xed);
+export const banner = `
+██╗  ██╗ █████╗ ██╗███████╗ █████╗ ██████╗     ███████╗███████╗██████╗  ██████╗ 
+██║ ██╔╝██╔══██╗██║██╔════╝██╔══██╗██╔══██╗    ╚══███╔╝██╔════╝██╔══██╗██╔═══██╗
+█████╔╝ ███████║██║███████╗███████║██████╔╝      ███╔╝ █████╗  ██████╔╝██║   ██║
+██╔═██╗ ██╔══██║██║╚════██║██╔══██║██╔══██╗     ███╔╝  ██╔══╝  ██╔══██╗██║   ██║
+██║  ██╗██║  ██║██║███████║██║  ██║██║  ██║    ███████╗███████╗██║  ██║╚██████╔╝
+╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝    ╚══════╝╚══════╝╚═╝  ╚═╝ ╚═════╝ 
+[+]=================================================[+]
+[+]= Running Kaisar Node Beta Extension Cli Version=[+]                
+[+]=            Author : Nofan Rambe               =[+]
+[+]=            Welcome & Enjoy Sir!               =[+]
+[+]=================================================[+]
+`
