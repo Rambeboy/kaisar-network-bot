@@ -37,7 +37,7 @@ Transform your compute power into real earnings.
    ```bash
    npm install
    ```
-3. Configire your accounts:
+3. Configure your accounts:
    ```bash
    cp -r accounts/proxy_list_tmp.js proxy.txt && cp -r accounts/tokens.txt tokens.txt && cp -r accounts/id.txt id.txt && cp -r accounts/emails.txt emails.txt
    ```
