@@ -7,6 +7,7 @@
   "scripts": {
     "start": "node app/index.js",
     "register": "node config/register.js",
+    "spin": "node config/spin.js",
     "setup": "node config/setup.js",
     "build": "rm -rf app && rm -rf config && javascript-obfuscator"
   },
