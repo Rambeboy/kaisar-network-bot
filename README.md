@@ -53,7 +53,11 @@ Transform your compute power into real earnings.
    ```bash
    npm run setup
    ```
-7. Run the bot:
+7. Additional spin feature:
+   ```bash
+   npm run spin
+   ```
+9. Run the bot:
    ```bash
    npm run start
    ```
