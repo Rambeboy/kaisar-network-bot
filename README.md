@@ -37,23 +37,27 @@ Transform your compute power into real earnings.
    ```bash
    npm install
    ```
-3. Configure the emails:
+3. Configire your accounts:
+   ```bash
+   cp -r accounts/proxy_list_tmp.js proxy.txt && cp -r accounts/tokens.txt tokens.txt && cp -r accounts/id.txt id.txt && cp -r accounts/emails.txt emails.txt
+   ```
+4. Configure the emails:
    ```bash
    nano emails.txt
    ```
-4. Configure the proxy:
+5. Configure the proxy:
    ```bash
    nano proxy.txt
    ```
-5. Register or Login to get Access Token:
+6. Register or Login to get Access Token:
    ```bash
    npm run register
    ```
-6. Create Extension ID for new accounts:
+7. Create Extension ID for new accounts:
    ```bash
    npm run setup
    ```
-7. Additional spin feature:
+8. Additional spin feature:
    ```bash
    npm run spin
    ```
